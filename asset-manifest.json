@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/coinFlipper/static/css/main.10571960.css",
+    "main.js": "/coinFlipper/static/js/main.184ea99f.js",
+    "static/js/787.2e170ee4.chunk.js": "/coinFlipper/static/js/787.2e170ee4.chunk.js",
+    "static/media/tails.png": "/coinFlipper/static/media/tails.acd56d8102b3daadde8b.png",
+    "static/media/heads.png": "/coinFlipper/static/media/heads.36ac8461d7620a5fb9d1.png",
+    "index.html": "/coinFlipper/index.html",
+    "main.10571960.css.map": "/coinFlipper/static/css/main.10571960.css.map",
+    "main.184ea99f.js.map": "/coinFlipper/static/js/main.184ea99f.js.map",
+    "787.2e170ee4.chunk.js.map": "/coinFlipper/static/js/787.2e170ee4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.10571960.css",
+    "static/js/main.184ea99f.js"
+  ]
+}
